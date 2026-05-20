@@ -94,7 +94,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Jay_Prajapati_Front-End Developer.pdf"
+        href="https://drive.google.com/file/d/1HmhsZmE50Ux3wzMFu-_vOJdCs2eL2MPX/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
